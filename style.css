@@ -9,6 +9,9 @@ body{
 .total-price{
 	padding-bottom: 15px;
 }
+.confirmation-msg{
+	background-color: rgb(80, 168, 120);
+}
 .cart-item{
 	background-color: #fff;
 	border-radius: 10px;
